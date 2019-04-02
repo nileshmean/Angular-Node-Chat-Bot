@@ -14,9 +14,9 @@ Anyonce have questions please fill free to ask at <a href="mailto:nileshmean@gma
 
 ### Example
 
-User: Hi
-Bot: Hi Welcome to Bot
-Bot: What is your name
-User: Nilesh Mean
-User: Weather in New York
-Bot: Windy, 23 degree Celcius
+User: Hi</br>
+Bot: Hi Welcome to Bot</br>
+Bot: What is your name</br>
+User: Nilesh Mean</br>
+User: Weather in New York</br>
+Bot: Windy, 23 degree Celcius</br>
