@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Angular Node Chat Bot
+Its a Angular Node js Chatbot for  Customer Question or Services or for the AI answers.
+You can ask the questions about products,services or general help.
+Also you can ask questions about the Fitness, it will First ask the user details like name, age, gender than the fitness goal and shows the dieting plan, fitness steps etc. 
 
-You can use the [editor on GitHub](https://github.com/nileshmean/Angular-Node-Chat-Bot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This build on Angular-6 and Node.js - 10
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nileshmean/Angular-Node-Chat-Bot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Developers are Welcome to Contribute. 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Anyonce have questions please fill free to ask at <a href="mailto:nileshmean@gmail.com">nileshmean@gmail.com</a>
